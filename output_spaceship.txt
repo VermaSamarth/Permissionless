@@ -1,0 +1,15 @@
+Enter the details for person1:
+Enter the music taste:
+pop
+Enter the movie taste:
+sci-fi
+Enter the drinks taste:
+alcoholic
+Enter the details for person2:
+Enter the music taste:
+electronic
+Enter the movie taste:
+sci-fi
+Enter the drinks taste:
+alcoholic
+Compatibility Percentage:66.66666666666666%
